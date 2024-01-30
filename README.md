@@ -4,7 +4,7 @@ Requirements
 - python
 - sql
 - streamlit
-
+Make sure you change your password in my_password in database.py file
 Steps to run
 
 Ensure you run these command 
