@@ -22,3 +22,11 @@ Open folder in VScode and open terminal run
 ```ruby
 streamlit run app.py
 ```
+
+| Tables in sql  | 
+| -------------  | 
+|  Domain        | 
+|  Course        | 
+|  Teacher       | 
+|  Student       | 
+|  Payment       | 
