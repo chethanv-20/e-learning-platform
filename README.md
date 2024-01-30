@@ -3,7 +3,7 @@
 Requirements 
 - python
 - sql
-- streamlit
+-streamlit
 -Make sure you change your password in my_password in database.py file
 Steps to run
 
